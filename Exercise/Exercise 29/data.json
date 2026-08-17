@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "maxamad",
+    "city": "Mogadishu",
+    "orders": [
+      { "id": 2, "Product": "laptop", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "xassan",
+    "city": "Burco",
+    "orders": [
+      { "id": 2, "Product": "laptop-stand", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "sundus",
+    "city": "Mogadishu",
+    "orders": [
+      { "id": 2, "Product": "laptop", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "cumaar",
+    "city": "baay",
+    "orders": [
+      { "id": 2, "Product": "laptop", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "xamuuda",
+    "city": "afgooye",
+    "orders": [
+      { "id": 2, "Product": "laptop", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "yaxye",
+    "city": "garas baaleey",
+    "orders": [
+      { "id": 2, "Product": "laptop", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "khaalid",
+    "city": "turkey",
+    "orders": [
+      { "id": 2, "Product": "laptop", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "mahdi",
+    "city": "marooko",
+    "orders": [
+      { "id": 2, "Product": "laptop", "quantity": 2 },
+      { "id": 5, "Product": "Mouse", "quantity": 3 }
+    ]
+  }
+]
